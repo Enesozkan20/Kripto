@@ -3,7 +3,7 @@
 This project is a SCSS-based cryptocurrency dashboard made with HTML, SCSS, and JavaScript. It shows real-time crypto prices and market data using a public API, with a clean and responsive design thanks to SCSS.
 
 ![HTML5](https://img.shields.io/badge/HTML5-Semantic-orange)
-![SCSS](https://img.shields.io/badge/CSS-SCSS-CC6699)
+![SCSS](https://img.shields.io/badge/CSS-SASS-CC6699)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
 
 ## ✨ Button Component Features
